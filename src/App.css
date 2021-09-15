@@ -1,0 +1,15 @@
+/* 28:57 */
+.map {
+  height: 600px;
+}
+.marker {
+  background-color: purple;
+  width: 15px;
+  height: 15px;
+  border-radius: 80%;
+}
+/* .marker-3 {
+  background-color: yellow;
+  width: 15px;
+  height: 15px;
+} */
